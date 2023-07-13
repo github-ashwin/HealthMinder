@@ -6,7 +6,7 @@
 
 body {
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    background-color: #9eb3c2;
+    background-color: #ffffff;
 }
 
 .container {
@@ -28,7 +28,7 @@ h3 {
 }
 
 .hero {
-    background-color: #21295c;
+    background-color: #003559;
 }
 
 .header {
@@ -38,7 +38,7 @@ h3 {
     flex-direction: row;
     align-items: center;
     justify-content: space-between;
-    color: #9eb3c2;
+    color: #ffffff;
     margin-top: 1em;
 }
 
@@ -140,7 +140,7 @@ img {
 }
 
 .box-small {
-    background-color: #21295c;
+    background-color: #f2f2f2;
     flex: 1;
     border-radius: 10px;
     margin: 20px 10px;
@@ -153,6 +153,7 @@ img {
 .box-small h3,
 h4 {
     text-align: center;
+    color: #0353A4;
 }
 
 .call-action {
